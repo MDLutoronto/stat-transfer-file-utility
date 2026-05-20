@@ -16,6 +16,6 @@ Introductory guide to the Stat/Transfer utility (version 10\).
 
  [Guide\_StatTransfer.pdf](https://mdl.library.utoronto.ca/sites/default/public/Guide_StatTransfer.pdf)
  
- Technique: [Converting data formats](/technique/converting-data-formats)
+ **Technique:** [Converting data formats](https://mdlutoronto.github.io/tutorials-search/?technique=Converting+data+formats)
  
  **Date Created:** 2017\-05\-05 **Updated:** 2017\-05\-12
