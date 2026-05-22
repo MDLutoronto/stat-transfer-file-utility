@@ -4,8 +4,8 @@ layout: "home"
 description: ""
 permalink: "/"  #! Remove this if not the homepage
 maintainer:
- - name: Nick Field
-   link: https://library.utoronto.ca/staff/nick-field
+    - name: Nick Field
+      link: https://library.utoronto.ca/staff/nick-field
 created_date: 2017-05-05
 ---
 
